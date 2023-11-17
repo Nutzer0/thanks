@@ -1,4 +1,5 @@
 # Система донатов для авторов
 
-[Техническое задание на разработку](./docs/technical_requirements.md)
+
+[Техническое задание на разрабоку](./docs/technical_requirements.md)
 
